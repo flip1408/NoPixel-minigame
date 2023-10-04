@@ -379,11 +379,11 @@ export default
             'rood',
             'geel',
             'Oranje',
-            'groente',
-            'Purper'
+            'Groen',
+            'Paars'
         ],
         SHAPES : [
-            "plein",
+            "vierkant",
             "driehoek",
             "rechthoek",
             "cirkel"
@@ -402,8 +402,8 @@ export default
             "EN",
             "Te snel? Oefen door de puzzeltijd te veranderen!",
             "VERBINDING TOT STAND BRENGEN",
-            "IETS HACKERMANS DOEN...",
-            "TOEGANGSCODE GEVLAGEN; VEREIST MENSELIJKE CAPTCHA-INVOER...",
+            "IETS HACKERMANS AAN HET DOEN...",
+            "TOEGANGSCODE GEVLAGD; VEREIST MENSELIJKE CAPTCHA-INVOER...",
             "het systeem is omzeild.",
             "Het systeem heeft uw antwoorden niet geaccepteerd",
             "het antwoord was",
