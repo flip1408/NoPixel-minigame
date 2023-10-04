@@ -378,9 +378,9 @@ export default
             'blauw',
             'rood',
             'geel',
-            'Oranje',
-            'Groen',
-            'Paars'
+            'oranje',
+            'groen',
+            'paars'
         ],
         SHAPES : [
             "vierkant",
